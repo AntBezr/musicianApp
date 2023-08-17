@@ -1,11 +1,6 @@
-# musician-app
-NodeJS / React sample app for AWS CI/CD pipeline tutorial
+Typing Game
 
-Remember to deploy in **Node.js running on 64bit Amazon Linux** <br>
-Also consider using NodeJS version 14 (which has long term support)
-
-It is already running live on my AWS account here:
-http://musicianapp2-env.eba-iacrdpph.eu-central-1.elasticbeanstalk.com/
-
-You may take reference from this video:
-https://www.youtube.com/watch?v=NwzJCSPSPZs
+- Uses random quotable.io api
+- Deployed using AWS CodePipeline and AWS BeanStalk
+- Application is live in production server here:
+- http://musicianapp-env.eba-fpcenxvf.eu-central-1.elasticbeanstalk.com/
